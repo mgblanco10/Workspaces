@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: 0;
+  background:#f1f1f1;
+  
+}
+:root{
+    --color: white
+    --back-color: dodgerblue
+}
+:root.light{
+    --color: black
+    --back-color: skyblue
+}
