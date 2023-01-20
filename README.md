@@ -33,20 +33,33 @@ This page is a responsible application made with javascript, react and tailwind,
 - Reservation Workspace
 - Adjust Settings(name, email,password,...)
 
-### UI design
-![](./images/Figma.jpg)
+## UI design
+![](./img/Figma.jpg)
 
+### Version Desktop
+![](./img/login.png)
+![](./img/register.png)
+![](./img/home.png)
+![](./img/workspaces.png)
+![](./img/reservation.png)
+![](./img/calendar.png)
+![](./img/confirmation_reservation.png)
+![](./img/settings.png)
 
-### Technical Description
+### Version Mobil
+![](./img/loginMobil.png)
+![](./img/homeVersionMobil.png)
+
+## Technical Description
 - Blocks
 - Sequence
 - Components
 - Code Coverage (Testing)
 - Technologies
 
-![](./images/model.jpg)
+![](./img/model.jpg)
 
-### Technologies
+## Technologies
 Html
 Css 
 JavaScript
@@ -60,7 +73,7 @@ Winston
 
 ### Data Model
 
-![](./images/dataModel.jpg)
+![](./img/dataModel.jpg)
 
  User
 - id: ObjectId --> automático mongo
@@ -126,7 +139,7 @@ Version 1
 
 ### Test coverage
 
-![](./images/coverageTest.jpg)
+![](./img/coverageTest.jpg)
 
 To be continue... V0 --V1   para poder hacer todo tendrá una parte de mapa para poder hacer la ubicación del espacio de trabajo, permitir que los usuarios puedan darle like a sus espacios favoritos, además poder agregar un map con geospatial queries mongodb, un apartado de noticias, videos informativos, pasarela de pago, noticias, videos.
 
