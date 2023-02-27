@@ -1,0 +1,56 @@
+ERROR 2023-02-27T10:14:13.547Z src/index.js | connect ECONNREFUSED ::1:27017
+ERROR 2023-02-27T10:19:04.028Z src/index.js | connect ECONNREFUSED ::1:27017
+INFO 2023-02-27T10:21:07.390Z src/index.js | db connected
+ERROR 2023-02-27T10:21:07.528Z src/index.js | Cannot find module 'date-fns/endOfDay'
+Require stack:
+- /Users/monica/Documents/GitHub/Workspaces/api/src/logic/reservations/createReservation/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/logic/reservations/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/logic/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/routes/users/authenticateUserHandler.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/routes/users/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/routes/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/index.js
+INFO 2023-02-27T10:22:03.278Z src/index.js | db connected
+ERROR 2023-02-27T10:22:03.447Z src/index.js | Cannot find module 'date-fns/endOfDay'
+Require stack:
+- /Users/monica/Documents/GitHub/Workspaces/api/src/logic/reservations/createReservation/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/logic/reservations/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/logic/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/routes/users/authenticateUserHandler.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/routes/users/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/routes/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/index.js
+INFO 2023-02-27T10:22:49.102Z src/index.js | db connected
+ERROR 2023-02-27T10:22:49.215Z src/index.js | Unexpected token 'export'
+INFO 2023-02-27T10:23:33.621Z src/index.js | db connected
+ERROR 2023-02-27T10:23:33.948Z src/index.js | Cannot find module 'date-fns/endOfDay'
+Require stack:
+- /Users/monica/Documents/GitHub/Workspaces/api/src/logic/reservations/createReservation/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/logic/reservations/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/logic/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/routes/users/authenticateUserHandler.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/routes/users/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/routes/index.js
+- /Users/monica/Documents/GitHub/Workspaces/api/src/index.js
+INFO 2023-02-27T10:25:45.393Z src/index.js | db connected
+INFO 2023-02-27T10:25:45.577Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-02-27T10:35:29.133Z src/index.js | 
+api stopped
+INFO 2023-02-27T10:35:39.652Z src/index.js | db connected
+INFO 2023-02-27T10:35:39.823Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-02-27T10:46:50.937Z src/index.js | 
+api stopped
+INFO 2023-02-27T10:47:10.456Z src/index.js | db connected
+INFO 2023-02-27T10:47:10.657Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-02-27T11:13:15.371Z src/index.js | 
+api stopped
+INFO 2023-02-27T11:13:15.380Z src/index.js | db disconnected
+INFO 2023-02-27T11:13:19.298Z src/index.js | db connected
+INFO 2023-02-27T11:13:19.498Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-02-27T11:25:16.382Z src/index.js | 
+api stopped
+INFO 2023-02-27T11:25:24.892Z src/index.js | db connected
+INFO 2023-02-27T11:25:25.104Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-02-27T11:41:39.778Z src/index.js | 
+api stopped
+INFO 2023-02-27T11:41:39.785Z src/index.js | db disconnected
