@@ -14,6 +14,7 @@ const API_URL = process.env.REACT_APP_API_URL
  */
 
  function authenticateUser(email, password, callback) {
+    debugger
     validateEmail(email)
     validatePassword(password)
     validateCallback(callback)
@@ -64,7 +65,7 @@ const API_URL = process.env.REACT_APP_API_URL
 
     xhr.setRequestHeader('Content-type', 'application/json')
 
-    xhr.send(`{ "email": ${email}, "password": ${password} }`)
+    xhr.send(`{ "email": "${email}", "password": "${password}" }`)
 }
 
 export default authenticateUser

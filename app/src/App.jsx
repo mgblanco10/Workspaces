@@ -70,7 +70,7 @@ const toggleTheme = () => {
     document.documentElement.classList.toggle('dark')
     }
 
-    return (   
+    return  <>
         <Context.Provider value={{toggleTheme}}>
         <div>
         <Routes>
@@ -82,9 +82,9 @@ const toggleTheme = () => {
         {feedback.message && <Feedback level={feedback.level} message={feedback.message} onClick={handleAcceptFeedback} />}
          </div>
          </Context.Provider>
-   
-            )
-        }
+       </>
+            
+    }
 export default App
             
             
